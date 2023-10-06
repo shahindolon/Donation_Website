@@ -89,3 +89,45 @@ hr{
 #mid-btn{
     margin-right: 25px;
 }
+
+
+.donate-plan-container{
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.donate-plan{
+    text-align: center;
+}
+.donate-plan p{
+    padding: 0px 300px 0px 300px;
+}
+.plan-container{
+    display: flex;
+    margin: 0 120px;
+}
+.category{
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 20px;
+}
+#first-plan{
+    background: rgba(79, 157, 166, 0.10);
+    padding-top: 65px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 55px;
+}
+#second-plan{
+    background: rgba(255, 89, 89, 0.10);
+    padding-top: 65px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 55px;
+}
+#third-plan{
+    background: #FFF4D6;
+    padding-top: 65px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 55px;
+}
