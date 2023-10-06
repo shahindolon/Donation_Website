@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+}
+.top-header{
+    font-size: 55px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.container{
+    /* width: 600px; */
+    height: 470px;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 8%;
+}
+.top{
+    background-image: url(images/bg-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #FFF;
+    text-align: center;
+
+}
+.p-description{
+    margin-bottom: 30px;
+    padding: 0px 100px;
+}
+.btn-sector{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    background: #FF5959;
+    color: #FFF;
+    font-weight: bold;
+}
