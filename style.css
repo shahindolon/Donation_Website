@@ -131,3 +131,106 @@ hr{
     padding-right: 23px;
     padding-bottom: 55px;
 }
+
+.special-section{
+    margin-bottom: 200px;
+}
+.benefaction{
+    display: flex;
+}
+.empire{
+    width: 50%;
+    padding-left: 150px;
+    /* background-color: #f10c0c; */
+}
+.empire p{
+    padding-bottom: 20px;
+}
+.empire2{
+    width: 50%;
+    padding-left: 50px;
+    /* background-color: #f10c0c; */
+}
+.empire2 img{
+    width: 60%;
+    height: 120%;
+    border-radius: 10px;
+}
+
+.faction{
+    display: flex;
+}
+.sp2{
+    width: 50%;
+    padding-left: 150px;
+    /* background-color: #f10c0c; */
+}
+.sp2 img{
+    width: 60%;
+    height: 120%;
+    border-radius: 10px;
+}
+.sp{
+    width: 50%;
+    padding-right: 150px;
+    /* background-color: #c1951e; */
+}
+.sp p{
+    padding-bottom: 20px;
+}
+.special-section2{
+    margin-bottom: 150px;
+}
+
+.update-section{
+    margin-bottom: 100px;
+}
+.updates{
+    text-align: center;
+}
+.updates p{
+    padding: 0px 300px;
+    margin-bottom: 50px;
+}
+.update-form{
+    text-align: center;
+    background-color: #FFF4D6;
+    padding: 76px 100px;
+    margin: 0px 315px;
+    border-radius: 5px; 
+}
+.mail-box{
+    width: 200px;
+    height: 20px;
+    border-radius: 5px 0px 0px 5px;
+    background: #D9D9D9;
+    padding: 10px;
+}
+#subscribe-btn{
+    width: 157px;
+    border-radius: 0px 5px 5px 0px;
+    background: #FF5959;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-left: -5px;
+    color: #FFF;
+    border-bottom: 2px solid #FF5959;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 20px 0px;
+}
+footer h3{
+    color: #FF5959;
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px; 
+    letter-spacing: 0.5px;
+    font-size: 30px;
+    }
+footer p{
+    color: #FFF;
+}    
